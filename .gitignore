@@ -1,0 +1,9 @@
+AdjustExample/*.iml
+AdjustExample/.gradle
+AdjustExample/local.properties
+AdjustExample/.idea/workspace.xml
+AdjustExample/.idea/libraries
+AdjustExample/.DS_Store
+AdjustExample/build
+AdjustExample/captures
+AdjustExample/.externalNativeBuild
